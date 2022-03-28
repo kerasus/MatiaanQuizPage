@@ -1,6 +1,6 @@
-# MatiaanQuizPage (matiaan-quiz-page)
+# TikaTest (tikatest-vue)
 
-Quiz page of Matiaan
+front of TikaTest
 
 ## Install the dependencies
 ```bash
